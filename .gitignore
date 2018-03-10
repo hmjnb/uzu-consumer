@@ -1,0 +1,14 @@
+#忽略.project文件
+.project
+#忽略.gitignore
+.gitignore
+#忽略.classpath
+.classpath
+#忽略target文件及文件夹
+target/
+#忽略.setttings文件
+.settings/
+#忽略class文件
+*.class
+.git
+*/.git/*
